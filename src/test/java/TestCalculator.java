@@ -8,7 +8,7 @@ public class TestCalculator {
         public void testAdd(){
     Cacullator c=new Cacullator();
     assertEquals(7,c.add(2,5));
-
+    System.out.println("testing");
 }
 
 }
