@@ -6,6 +6,6 @@ public class Main {
         System.out.println("This is my first git hub commit integrating with jenkins");
         System.out.println("this is commit from feature in to master" );
         System.out.println("This demo is for git rebase from intellij");
-        System.out.println("This demo is for git rebase");
+        System.out.println("This demo is for git rebase from eclipse");
     }
 }
